@@ -12,3 +12,4 @@ else:
 	include("controleurs/index.php");
 
 endif;
+echo 'ok';
